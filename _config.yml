@@ -1,7 +1,7 @@
 
 plugins:
  - jekyll-remote-theme
-remote_theme: jamcorks/html5up-story
+remote_theme: gotgenes/html5up-story
 title: Jamie Corcoran
 description: Neuroscience and Behavior PhD 
 
